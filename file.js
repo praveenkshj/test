@@ -1,3 +1,3 @@
-function minusnumber(a,b){
-	return a-b;
+function multiplynumber(a,b){
+	return a*b;
 }
